@@ -4,13 +4,25 @@ I'm currently learning on Go Language (i hate kotlin right now)
 
 ## Language and Tools:
 Language I've try is:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,php,go,kotlin)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,go,kotlin" />
+  </a>
+</p>
 
 With my framework/library experience is:
-[![My Skills](https://skillicons.dev/icons?i=react,vue,tailwind,laravel)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,vue,tailwind,laravel" />
+  </a>
+</p>
 
 And little bit familiar with some DBMS like:
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+  </a>
+</p>
 
 
 # My Stats
