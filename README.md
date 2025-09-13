@@ -1,13 +1,13 @@
 # Hi, I'm Dwi Prasetia
 
-I'm Prast13 (He/Him) - I'm curently a Informatic's Student. I'm interested on FrontEnd Web Dev (React or Vue) and also interested on Go Programming as Backend Dev. I work on random project and push it on here (Sometimes private)
+I'm Prast13 (He/Him) - I'm interested on FrontEnd Web Dev (React or Vue) and also interested on Go Programming as Backend Dev. I work on random project and push it on here (Sometimes private)
 
 
 ## Language and Tools:
 Language I've try is:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,go,kotlin" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,go,rust" />
   </a>
 </p>
 
