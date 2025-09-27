@@ -1,6 +1,6 @@
 # Hi, I'm Dwi Prasetia
 
-I'm Prast13 (He/Him) - I'm interested on FrontEnd Web Dev (React or Vue) and also interested on Go Programming as Backend Dev. I work on random project and push it on here (Sometimes private)
+I'm Prast13 (He/Him) - II love exploring the world of technology, especially in **backend development with Go**. I work on random project and push it on here (Sometimes private)
 
 
 ## Language and Tools:
