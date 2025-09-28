@@ -1,7 +1,7 @@
 # Hi, I'm Dwi Prasetia
 
 I'm Prast13 (He/Him) - I love exploring the world of technology, especially in **backend development with Go**.  
-I work on random project and push it on here (Sometimes private)
+I work on random project and push it on here (Sometimes private).
 
 
 ## Language and Tools:
@@ -26,8 +26,10 @@ And little bit familiar with some DBMS like:
   </a>
 </p>
 
-
 # My Stats
+
+45++ trash repository already created.
+
 [![](https://raw.githubusercontent.com/dwiprst13/dwiprst13/master/profile-summary-card-output/gotham/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/dwiprst13/dwiprst13/master/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dwiprst13/dwiprst13/master/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/dwiprst13/dwiprst13/master/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dwiprst13/dwiprst13/master/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
