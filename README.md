@@ -34,3 +34,5 @@ And little bit familiar with some DBMS like:
 [![](https://raw.githubusercontent.com/dwiprst13/dwiprst13/master/profile-summary-card-output/gotham/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dwiprst13/dwiprst13/master/profile-summary-card-output/gotham/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/dwiprst13/dwiprst13/master/profile-summary-card-output/gotham/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/dwiprst13/dwiprst13/master/profile-summary-card-output/gotham/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+Too many private repos, because of this:
+![ampun](https://github.com/user-attachments/assets/338f3ac9-65fe-43b1-868d-eab84bc6b8a0)
