@@ -8,7 +8,7 @@ I work on random project and push it on here (Sometimes private).
 Language I've try is:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,go,rust" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,go" />
   </a>
 </p>
 
