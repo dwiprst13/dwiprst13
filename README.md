@@ -4,6 +4,9 @@ I'm Prast13 (He/Him) - I love exploring the world of technology, especially in *
 I work on random project and push it on here (Sometimes private).
 
 
+Currently in the 750 hour period of being a Go backend developer.
+
+
 ## Language and Tools:
 Language I've try is:
 <p align="center">
