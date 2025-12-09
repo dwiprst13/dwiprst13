@@ -8,14 +8,14 @@ Currently in the 750 hour period of being a Go backend developer.
 
 
 ## Language and Tools:
-Language I've try is:
+Language I've try are:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,php,go" />
   </a>
 </p>
 
-With my framework/library experience is:
+With my framework/library experience are:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,vue,tailwind,laravel" />
